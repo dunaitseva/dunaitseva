@@ -1,5 +1,4 @@
 <img src='https://rishavanand.github.io/static/images/greetings.gif' alt='greeting'>
-
 # Привет, меня зовут Дунайцев Александр.
 
 Добро пожаловать в мой github аккаунт. 
@@ -29,14 +28,10 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 </div>
 
-## Текущая изучаемая тема
-
-$ Заполнить поле $
-<!--- ТУТ ТЕМА --->
-
 ## Текущий проект
 
-$Инфа по проекту$
+None
+
 <!--- Минимальное поисание + ссылка --->
 
 ## Немного статистики:
