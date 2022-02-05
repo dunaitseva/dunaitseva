@@ -29,6 +29,21 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 </div>
 
+## Реализованные проекты
+### Блочный шифр AES
+Имплементация блочного шифра, в соответствии с AES, реализующий алгоритм симметричного шифрования Rijndael. Проект написан на C++17. В ходе создания проекта,
+я, кроме прочего, учился использовать такие технолгоии, как:
+
+- GitHub Actions
+- Codecov
+- Gcovr
+- Bash
+- Статические и динамические анализаторы кода, а также санитайзеры
+- Построение архитектуры и визуализация классовой иерархии в виде UML диаграмм
+
+Ссылка на репозиторий с проектом:
+https://github.com/dunaitseva/AES
+
 ## Текущий проект
 
 CLI Генератор паролей. Позволяет пользователю задавать опции генерации пароля.
@@ -42,7 +57,7 @@ CLI Генератор паролей. Позволяет пользовател
 
 ## Ссылки для связи со мной
 
-[<img src='https://cdn-icons.flaticon.com/png/512/3670/premium/3670055.png?token=exp=1642128148~hmac=2dce5b2c90eb63e05a8a1cb8b19d5605' alt='vk' height='40'>](https://vk.com/shmalens) 
+[<img src='https://uca7a65d6467e2bb368624f6c6ae.previews.dropboxusercontent.com/p/thumb/ABbTVyxVxlp0LlanetE0j-gxPU37GMzGWHPtf5hPnDK7FtSD862kmKQXLCGD60sHiG1KVT52youeb2zp76oo4vqH6IRS0j3cZ4hrn2fmFfitmuMVMfZA9blItWFyTcyKOBpFtF6PV9x-Ry10KtTrMshE02Lx1tjHa35d6doUllc8QDjAnzqqnXBlBkWz7_r4rh8AV1MS4X4WV_oF61SlWs-J3tCnoyMp3yBCfoF7Fkwf8PeZaWW4iFAoynGOZY_AO4bRV3sKk7N94EtHBwQBk3GD2Vls9tXPv4ySLyBNF6GcJQX5mEn22ESW1ZLx-87HanbotgfjKogT6eXFwYrEMw6JW4ZLTiTsfQLMLltCvCBoocDXKTflhRNmPeesfwsH19k/p.jpeg' alt='vk' height='40'>](https://vk.com/shmalens) 
 [<img src='https://cdn-icons-png.flaticon.com/512/906/906377.png' alt='telegram' height='40'>](https://t.me/shmalens) 
 
 
