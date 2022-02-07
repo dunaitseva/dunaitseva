@@ -41,6 +41,10 @@
 - Статические и динамические анализаторы кода, а также санитайзеры
 - Построение архитектуры и визуализация классовой иерархии в виде UML диаграмм
 
+![example workflow](https://github.com/dunaitseva/AES/actions/workflows/build-and-test-config.yml/badge.svg)
+[![codecov](https://codecov.io/gh/dunaitseva/AES/branch/main/graph/badge.svg?token=0002QPAO0Y)](https://codecov.io/gh/dunaitseva/AES)
+
+
 Ссылка на репозиторий с проектом:
 https://github.com/dunaitseva/AES
 
