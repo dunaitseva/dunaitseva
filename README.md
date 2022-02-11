@@ -44,7 +44,7 @@
 [![codecov](https://codecov.io/gh/dunaitseva/AES/branch/main/graph/badge.svg?token=0002QPAO0Y)](https://codecov.io/gh/dunaitseva/AES)
 
 
-Ссылка на репозиторий с проектом:
+**Ссылка на репозиторий с проектом:**
 https://github.com/dunaitseva/AES
 
 ## Текущий проект
@@ -58,11 +58,10 @@ CSPRNG Fortuna алгоритм на C++
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunaitseva)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dunaitseva&show_icons=true) 
 
-## Ссылки для связи со мной
+## Связзаться со мной
 
-[<img src='./static/VK_Compact_Logo.png' alt='vk' height='40'>](https://vk.com/shmalens) 
-[<img src='https://cdn-icons-png.flaticon.com/512/906/906377.png' alt='telegram' height='40'>](https://t.me/shmalens) 
-
+[<img src='./static/VK_Compact_Logo.png' alt='vk' height='40'>](https://vk.com/shmalens) &nbsp; &nbsp;
+[<img src="./static/telegram.svg" alt='telegram' height='40'>](https://t.me/shmalens) 
 
 ![Profile views](https://gpvc.arturio.dev/dunaitseva) 
 <!---
