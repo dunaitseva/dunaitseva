@@ -15,18 +15,17 @@
 
 **Я работаю со следующими технологиями:**
 <div align="center">  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+  <img style="margin: 10px" src="./static/cpp.svg" alt="C++" height="50" />
+  <img style="margin: 10px" src="./static/c.svg" alt="C" height="50" />
+  <img style="margin: 10px" src="./static/python.svg" alt="Python" height="50" /> 
+  <img style="margin: 10px" src="./static/bash.svg" alt="Bash" height="50" />
+  <img style="margin: 10px" src="./static/linux.svg" alt="Linux" height="50" />
+  <img style="margin: 10px" src="./static/git.svg" alt="Git" height="50" />
+  <img style="margin: 10px" src="./static/MySQL.svg" alt="MySQL" height="50" />
+  <img style="margin: 10px" src="./static/LaTeX.png" alt="Latex" height="50" />
+  <img style="margin: 10px" src="./static/css.svg" alt="CSS3" height="50" />
+  <img style="margin: 10px" src="./static/html.svg" alt="HTML5" height="50" />
+  <img style="margin: 10px" src="./static/bootstarp.svg" alt="Bootstrap" height="50" />  
 </div>
 
 ## Реализованные проекты
@@ -61,7 +60,7 @@ CSPRNG Fortuna алгоритм на C++
 
 ## Ссылки для связи со мной
 
-[<img src='https://uca7a65d6467e2bb368624f6c6ae.previews.dropboxusercontent.com/p/thumb/ABbTVyxVxlp0LlanetE0j-gxPU37GMzGWHPtf5hPnDK7FtSD862kmKQXLCGD60sHiG1KVT52youeb2zp76oo4vqH6IRS0j3cZ4hrn2fmFfitmuMVMfZA9blItWFyTcyKOBpFtF6PV9x-Ry10KtTrMshE02Lx1tjHa35d6doUllc8QDjAnzqqnXBlBkWz7_r4rh8AV1MS4X4WV_oF61SlWs-J3tCnoyMp3yBCfoF7Fkwf8PeZaWW4iFAoynGOZY_AO4bRV3sKk7N94EtHBwQBk3GD2Vls9tXPv4ySLyBNF6GcJQX5mEn22ESW1ZLx-87HanbotgfjKogT6eXFwYrEMw6JW4ZLTiTsfQLMLltCvCBoocDXKTflhRNmPeesfwsH19k/p.jpeg' alt='vk' height='40'>](https://vk.com/shmalens) 
+[<img src='./static/VK_Compact_Logo.png' alt='vk' height='40'>](https://vk.com/shmalens) 
 [<img src='https://cdn-icons-png.flaticon.com/512/906/906377.png' alt='telegram' height='40'>](https://t.me/shmalens) 
 
 
