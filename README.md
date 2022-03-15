@@ -62,7 +62,7 @@ AirFile
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunaitseva)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dunaitseva&show_icons=true) 
 
-## Связзаться со мной
+## Связаться со мной
 
 [<img src='./static/VK_Compact_Logo.png' alt='vk' height='40'>](https://vk.com/shmalens) &nbsp; &nbsp;
 [<img src="./static/telegram.svg" alt='telegram' height='40'>](https://t.me/shmalens) 
