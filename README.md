@@ -28,25 +28,6 @@
   <img style="margin: 10px" src="./static/bootstarp.svg" alt="Bootstrap" height="50" />  
 </div>
 
-## Реализованные проекты
-### Блочный шифр AES
-Имплементация блочного шифра, в соответствии с AES, реализующий алгоритм симметричного шифрования Rijndael. Проект написан на C++17. В ходе создания проекта,
-я, кроме прочего, учился использовать такие технолгоии, как:
-
-- GitHub Actions
-- Codecov
-- Gcovr
-- Bash
-- Статические и динамические анализаторы кода, а также санитайзеры
-- Построение архитектуры и визуализация классовой иерархии в виде UML диаграмм
-
-![example workflow](https://github.com/dunaitseva/AES/actions/workflows/build-and-test-config.yml/badge.svg)
-[![codecov](https://codecov.io/gh/dunaitseva/AES/branch/main/graph/badge.svg?token=0002QPAO0Y)](https://codecov.io/gh/dunaitseva/AES)
-
-
-**Ссылка на репозиторий с проектом:**
-https://github.com/dunaitseva/AES
-
 ## Текущий проект
 
 AirFile
