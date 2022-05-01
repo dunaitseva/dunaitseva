@@ -28,13 +28,15 @@
   <img style="margin: 10px" src="./static/bootstarp.svg" alt="Bootstrap" height="50" />  
 </div>
 
-## Текущий проект
+<!--- ## Текущий проект
 
-AirFile
+ProjectName
 
-Сервис для централизованного хранения данных с общим доступом для разных пользователей. Командный проект, разрабатываемый в рамках проекта "Технопарк"
+Project description in few words.
 
-Ссылка на репозиторий: https://github.com/dunaitseva/AirFile
+Ссылка на репозиторий: repo link
+
+--->
 
 <!--- Минимальное поисание + ссылка --->
 
